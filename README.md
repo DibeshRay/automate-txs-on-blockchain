@@ -7,5 +7,5 @@ method
 
 *put private key and receiver address in code
 
-
-*run node filename.js on cmd
+//shell
+node filename.js
